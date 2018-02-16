@@ -4,6 +4,8 @@
   "description": "A versatile mithril template for creating an app",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack-dev-server --config webpack.dev.js",
+    "build": "webpack --config webpack.build.js",    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
