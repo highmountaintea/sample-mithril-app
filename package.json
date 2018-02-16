@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.dev.js",
-    "build": "webpack --config webpack.build.js",    
+    "build": "fsbin emptyDir build && fsbin copy public build && webpack --config webpack.build.js",
+    "clean": "fsbin emptyDir build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +26,7 @@
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.1",
+    "fsbin": "^0.1.0",
     "webpack": "^3.11.0",
     "webpack-dev-server": "^2.11.1"
   }
