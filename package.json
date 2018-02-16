@@ -1,0 +1,29 @@
+{
+  "name": "sample-mithril-app",
+  "version": "0.1.0",
+  "description": "A versatile mithril template for creating an app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnfliu818/sample-mithril-app.git"
+  },
+  "author": "johnfliu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnfliu818/sample-mithril-app/issues"
+  },
+  "homepage": "https://github.com/johnfliu818/sample-mithril-app#readme",
+  "dependencies": {
+    "mithril": "^1.1.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
