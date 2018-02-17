@@ -4,6 +4,10 @@
 
 ## Purpose
 
-This project is set up with webpack and webpack-dev-server for mithril.js. It is meant to be a skeleton project that can be cloned. `create-mithril-app` try to deploy projects using this one as the skeleton.
+I created this project to build a robust and versatile mithril.js template that can be cloned when we start a new mithril.js project. It is set up with webpack and webpack-dev-server to streamline development and build. A modified version of this template is used by [`create-mithril-app`](https://www.npmjs.com/package/create-mithril-app).
+
+## Development
+
+As this template is improved, it will benefit all the future projects based on it.
 
 To clone this project, please go to https://github.com/johnfliu818/sample-mithril-app.git
