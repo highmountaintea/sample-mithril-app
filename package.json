@@ -1,6 +1,6 @@
 {
   "name": "sample-mithril-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A versatile mithril template for creating an app",
   "main": "index.js",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnfliu818/sample-mithril-app.git"
+    "url": "git+https://github.com/highmountaintea/sample-mithril-app.git"
   },
   "author": "johnfliu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnfliu818/sample-mithril-app/issues"
+    "url": "https://github.com/highmountaintea/sample-mithril-app/issues"
   },
-  "homepage": "https://github.com/johnfliu818/sample-mithril-app#readme",
+  "homepage": "https://github.com/highmountaintea/sample-mithril-app#readme",
   "dependencies": {
     "mithril": "^1.1.6"
   },

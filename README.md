@@ -9,7 +9,7 @@ I created this project to build a robust and versatile mithril.js template that 
 
 ## Usage
 
-Clone this project [(here)](https://github.com/johnfliu818/sample-mithril-app.git) and use it as a starting point for your new mithril.js app.
+Clone this project [(here)](https://github.com/highmountaintea/sample-mithril-app.git) and use it as a starting point for your new mithril.js app.
 
 ## Development
 
