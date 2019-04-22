@@ -1,6 +1,6 @@
 {
   "name": "sample-mithril-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A versatile mithril template for creating an app",
   "main": "index.js",
   "scripts": {
@@ -29,9 +29,9 @@
     "@babel/preset-env": "^7.1.0",
     "babel-loader": "^8.0.4",
     "dotenv": "^6.1.0",
-    "fsbin": "^0.1.0",
-    "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.9"
+    "fsbin": "^1.0.8",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1",
+    "webpack-dev-server": "^3.3.1"
   }
 }
