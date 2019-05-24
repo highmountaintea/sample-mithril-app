@@ -3,7 +3,7 @@ require('dotenv').config({ path: path.resolve(process.cwd(), '.env.development')
 require('dotenv').config();
 const webpack = require('webpack');
 
-const port = 8020;
+const port = 8010;
 const openBrowser = true;
 const babel = true;
 
@@ -26,7 +26,9 @@ if (babel) {
       loader: 'babel-loader',
       options: {
         presets: ['@babel/preset-env'],
-        plugins: ['@babel/plugin-proposal-object-rest-spread'],
+        plugins: ['@babel/plugin-proposal-object-rest-spread',
+          ['@babel/plugin-transform-react-jsx',{"pragma": "m"}]
+        ],
       },
     },
   });
