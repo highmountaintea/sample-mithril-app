@@ -35,5 +35,6 @@
     "webpack": "^4.39.0",
     "webpack-cli": "^3.3.6",
     "webpack-dev-server": "^3.7.2"
-  }
+  },
+  "keywords": ["mithril", "template", "webpack", "webpack dev server", "live reload", "bundler"]
 }
