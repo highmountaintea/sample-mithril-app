@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/highmountaintea/sample-mithril-app.git"
   },
-  "author": "highmountaintea",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/highmountaintea/sample-mithril-app/issues"
