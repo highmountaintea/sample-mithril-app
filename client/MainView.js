@@ -1,13 +1,11 @@
-const m = require("mithril");
+import m from 'mithril';
 
-const model = require('./model');
+import * as model from './model';
 
-function render() {
+export function MainView() {
   return m('div', [
     m('h1', 'Hello World !!'),
     m('h3', 'Result: ' + JSON.stringify(model.getResult())),
     <div class="foo">Hi jsx</div>
   ]);
 }
-
-module.exports = render;
