@@ -7,7 +7,5 @@ build/
 # dotenv environment variables file
 .env
 
-# log and lock files
+# log files
 *.log
-*.lock
-*lock.json
