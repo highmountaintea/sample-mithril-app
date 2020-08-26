@@ -1,6 +1,6 @@
 {
   "name": "sample-mithril-app",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A versatile mithril template for creating an app",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/highmountaintea/sample-mithril-app#readme",
   "dependencies": {
-    "mithril": "^2.0.3"
+    "mithril": "^2.0.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
@@ -36,5 +36,12 @@
     "webpack-cli": "^3.3.6",
     "webpack-dev-server": "^3.7.2"
   },
-  "keywords": ["mithril", "template", "webpack", "webpack dev server", "live reload", "bundler"]
+  "keywords": [
+    "mithril",
+    "template",
+    "webpack",
+    "webpack dev server",
+    "live reload",
+    "bundler"
+  ]
 }
