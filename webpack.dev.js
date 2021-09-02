@@ -54,7 +54,7 @@ module.exports = {
     // proxy: {
     //   "/api": "http://localhost:3750"
     // },
-    contentBase: 'public',
+    static: 'public',
   },
   plugins: plugins,
   module: {
