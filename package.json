@@ -1,6 +1,6 @@
 {
   "name": "sample-mithril-app",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A versatile mithril template for creating an app",
   "main": "index.js",
   "scripts": {
