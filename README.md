@@ -14,3 +14,8 @@ Clone this project [(here)](https://github.com/highmountaintea/sample-mithril-ap
 ## Development
 
 As this template is improved, it will benefit all the future projects based on it.
+
+## Version History (partial)
+* `1.0.9` - replaced `@babel/polyfill` with `core-js` and `regenerator-runtime`
+* `1.0.8` - updated `webpack` for latest security fixes
+* `1.0.7` - updated to `mithril 2.0.4`
